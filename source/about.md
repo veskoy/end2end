@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, my name is Veselin and I'm from Bulgaria.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I am a Rubyist, Rails fan, linux master and open-source enthusiast. I love programming and I love solving out of the ordinary problems.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+In my free time I usually get my hands dirty with the most up-to-date technologies and tools. One of my favourite things to do is to optimize my development process.
+
+If you want to find more about me or my work, you can visit my social profiles. Don't hesitate to say "Hi".
